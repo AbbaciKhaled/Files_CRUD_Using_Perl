@@ -1,0 +1,14 @@
+ les entrées dupliquées entre dico1.txt et dico2.txt:
+Bnp
+Total
+HSBC
+Renault
+Peugeot
+Naftal
+Novartis
+
+ les entrées qui sont dans dico1.txt et qui ne sont pas dans dico2.txt:
+Société Générale
+Cevital
+BMW
+
